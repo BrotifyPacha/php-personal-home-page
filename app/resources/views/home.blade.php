@@ -3,7 +3,11 @@
 @section('title', 'Homepage')
 
 @section('content')
-Hello world
+
+<div class="">
+    <x-task-warrior/>
+</div>
+
 @endsection
 
 
